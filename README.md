@@ -53,6 +53,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0015-3sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Sorting
 |  |
 | ------- |
