@@ -41,6 +41,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tanush649345/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanush649345/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -55,6 +56,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0015-3sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Tanush649345/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -77,6 +79,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tanush649345/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tanush649345/leetcode-solutions/tree/master/0046-permutations) |
@@ -86,4 +89,8 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanush649345/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
