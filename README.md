@@ -64,6 +64,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0051-n-queens](https://github.com/Tanush649345/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tanush649345/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
