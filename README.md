@@ -51,6 +51,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Tanush649345/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0051-n-queens](https://github.com/Tanush649345/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
