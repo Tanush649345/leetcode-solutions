@@ -53,6 +53,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanush649345/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Tanush649345/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -93,6 +94,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanush649345/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -127,4 +129,12 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
