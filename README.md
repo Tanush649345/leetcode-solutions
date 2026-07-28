@@ -56,6 +56,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Tanush649345/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Array
 |  |
@@ -96,6 +97,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Tanush649345/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -137,4 +139,12 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Tanush649345/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Tanush649345/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
