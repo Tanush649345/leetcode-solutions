@@ -13,6 +13,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0138-copy-list-with-random-pointer](https://github.com/Tanush649345/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Tanush649345/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanush649345/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tanush649345/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanush649345/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -45,6 +46,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0138-copy-list-with-random-pointer](https://github.com/Tanush649345/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Tanush649345/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanush649345/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Tanush649345/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/Tanush649345/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -164,4 +167,8 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tanush649345/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
