@@ -78,6 +78,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanush649345/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -93,6 +94,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
