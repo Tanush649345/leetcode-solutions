@@ -34,6 +34,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanush649345/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -190,4 +192,8 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
