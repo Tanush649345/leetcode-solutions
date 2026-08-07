@@ -34,6 +34,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanush649345/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Tanush649345/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Tanush649345/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
@@ -196,4 +198,8 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanush649345/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
