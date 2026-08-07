@@ -77,6 +77,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Tanush649345/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Tanush649345/leetcode-solutions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanush649345/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -97,6 +98,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanush649345/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Tanush649345/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Tanush649345/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
@@ -129,6 +131,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tanush649345/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
