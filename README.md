@@ -91,6 +91,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0063-unique-paths-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
