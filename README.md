@@ -88,6 +88,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0239-sliding-window-maximum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -111,6 +112,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -133,6 +135,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0046-permutations](https://github.com/Tanush649345/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Tanush649345/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,8 +225,10 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
