@@ -86,6 +86,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
@@ -111,6 +112,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0120-triangle](https://github.com/Tanush649345/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tanush649345/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -224,6 +226,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -231,4 +234,12 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
