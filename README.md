@@ -91,6 +91,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0485-max-consecutive-ones](https://github.com/Tanush649345/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -115,6 +116,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -229,6 +231,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -242,4 +245,5 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
