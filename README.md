@@ -119,6 +119,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 ## Monotonic Stack
 |  |
@@ -172,6 +173,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tanush649345/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -246,4 +248,8 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
