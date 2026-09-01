@@ -93,6 +93,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0503-next-greater-element-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/Tanush649345/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -117,6 +118,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -160,6 +162,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanush649345/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanush649345/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -252,4 +256,12 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
