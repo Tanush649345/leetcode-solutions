@@ -117,6 +117,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tanush649345/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tanush649345/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -176,6 +177,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tanush649345/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Tanush649345/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Tanush649345/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
