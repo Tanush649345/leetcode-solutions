@@ -51,6 +51,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0142-linked-list-cycle-ii](https://github.com/Tanush649345/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Tanush649345/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanush649345/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tanush649345/leetcode-solutions/tree/master/0015-3sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,6 +242,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +255,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -279,6 +284,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Complete Knapsack
 |  |
 | ------- |
