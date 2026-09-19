@@ -232,6 +232,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanush649345/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -244,6 +245,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanush649345/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -258,6 +260,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanush649345/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanush649345/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
@@ -288,6 +291,7 @@ Solutions to LeetCode problems in Java with explanations and optimized approache
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanush649345/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Tanush649345/leetcode-solutions/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanush649345/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Complete Knapsack
 |  |
